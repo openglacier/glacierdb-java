@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Published to Maven Central by og-drivers/Makefile (make publish-maven). The repository builds with java/Makefile (javac only). -->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.openglacier</groupId>
+  <artifactId>glacierdb</artifactId>
+  <version>0.1.0</version>
+  <packaging>jar</packaging>
+  <name>glacierdb</name>
+  <description>Zero-dependency Java driver for glacierdb (ogd)</description>
+  <url>https://forge.openglacier.org/openglacier/platform</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>OpenGlacier contributors</name>
+      <organization>OpenGlacier</organization>
+      <organizationUrl>https://openglacier.org</organizationUrl>
+    </developer>
+  </developers>
+  <scm>
+    <url>https://forge.openglacier.org/openglacier/platform</url>
+    <connection>scm:git:https://forge.openglacier.org/openglacier/platform.git</connection>
+    <developerConnection>scm:git:https://forge.openglacier.org/openglacier/platform.git</developerConnection>
+  </scm>
+  <properties>
+    <maven.compiler.release>17</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+</project>
