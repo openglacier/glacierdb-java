@@ -9,7 +9,7 @@
   <packaging>jar</packaging>
   <name>glacierdb</name>
   <description>Zero-dependency Java driver for glacierdb (ogd)</description>
-  <url>https://forge.openglacier.org/openglacier/platform</url>
+  <url>https://github.com/openglacier/glacierdb-java</url>
   <licenses>
     <license>
       <name>MIT License</name>
@@ -24,9 +24,9 @@
     </developer>
   </developers>
   <scm>
-    <url>https://forge.openglacier.org/openglacier/platform</url>
-    <connection>scm:git:https://forge.openglacier.org/openglacier/platform.git</connection>
-    <developerConnection>scm:git:https://forge.openglacier.org/openglacier/platform.git</developerConnection>
+    <url>https://github.com/openglacier/glacierdb-java</url>
+    <connection>scm:git:https://github.com/openglacier/glacierdb-java.git</connection>
+    <developerConnection>scm:git:https://github.com/openglacier/glacierdb-java.git</developerConnection>
   </scm>
   <properties>
     <maven.compiler.release>17</maven.compiler.release>
